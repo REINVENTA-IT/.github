@@ -4,14 +4,6 @@
 
 <!-- Breve descripción de la empresa -->
 
-## Departamento de Tecnología
-
-<!-- Introducción al departamento de tecnología -->
-
-### Nuestra Misión
-
-<!-- Misión del departamento de tecnología -->
-
 ### Nuestro Equipo
 
 <!-- Descripción del equipo y roles principales -->
